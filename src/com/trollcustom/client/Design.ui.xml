@@ -1,0 +1,133 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		/* Add CSS here. See the GWT docs on UI Binder for more details */
+		.important {
+			font-weight: bold;
+		}
+		.dockPanelCenter {
+			margin-top: 60px;
+			padding-left: 0px;;
+		}
+		.hPanelDroite {
+		}
+		.rightVerticalLabel {
+			margin-left: 4px;
+		}
+		.alignCenter {
+			margin-right: auto;
+			margin-left: auto;
+			text-align: center;
+		}
+	</ui:style>
+	<g:HTMLPanel styleName="designPanel" width="85%" height="95%">
+		<g:Label text="Création d&apos;un Troll" styleName="titre"/>
+		<g:VerticalPanel width="100%" height="100%" styleName="dialogVPanel">
+			<g:DockPanel horizontalAlignment="ALIGN_CENTER" verticalAlignment="ALIGN_MIDDLE" width="912px" height="100%" ui:field="mainPanel" styleName="dialogVPanel">
+			<g:Dock direction="CENTER" horizontalAlignment="ALIGN_CENTER">
+				<g:VerticalPanel ui:field="centerPanel" horizontalAlignment="ALIGN_CENTER" width="459px">
+					<g:Cell horizontalAlignment="ALIGN_CENTER">
+						<g:HorizontalPanel horizontalAlignment="ALIGN_CENTER">
+				<g:Label text="Entrez un nom :" direction="LTR"/>
+				<g:TextBox ui:field="textBoxNom"/>
+			</g:HorizontalPanel>
+					</g:Cell>
+					<g:Cell horizontalAlignment="ALIGN_CENTER">
+						<g:HorizontalPanel>
+						<g:Label text="Choisissez un avatar : "/>
+						<g:FormPanel ui:field="formPanel">
+						<g:FileUpload ui:field="file" width="" height="" name="fileUploader"/>
+					</g:FormPanel>
+						<g:Button ui:field="button" styleName="button">Upload</g:Button>
+					</g:HorizontalPanel>
+					</g:Cell>
+					<g:Cell horizontalAlignment="ALIGN_CENTER">
+						<g:HorizontalPanel horizontalAlignment="ALIGN_CENTER">
+						<g:Label direction="LTR" text="Choisissez une race :  "/>
+						<g:ListBox visibleItemCount="1" ui:field="listBoxRace" width="97px" styleName="gwt-Label" selectedIndex="1"/>
+					</g:HorizontalPanel>
+					</g:Cell>
+					<g:Cell horizontalAlignment="ALIGN_CENTER" width="297px" height="291px">
+						<g:Image width="297px" height="291px" ui:field="imgTroll" url="img/troll1.jpg" styleName="images"/>
+					</g:Cell>
+				</g:VerticalPanel>
+			</g:Dock>
+			<g:Dock direction="WEST">
+				<g:VerticalPanel ui:field="gauchePanel" width="80%" height="291px" styleName="{style.dockPanelCenter}">
+					<g:Label text="Restant : 50" ui:field="labelRest" height="41px"/>
+					<g:HorizontalPanel>
+						<g:VerticalPanel>
+							<g:Label text="Attaque :" width="87px" height="31px"/>
+							<g:Label text="Dégâts :" width="87px" height="36px"/>
+							<g:Label text="Esquive :" width="86px" height="32px"/>
+							<g:Label text="Régénération :" width="86px" height="33px"/>
+							<g:Label text="Point de vie :" width="86px" height="30px"/>
+						</g:VerticalPanel>
+						<g:VerticalPanel height="210px">
+							<g:HorizontalPanel width="86px" height="18px">
+								<g:Button text="-" ui:field="buttonAttMoins"/>
+						<g:TextBox width="32px" height="18px" ui:field="textBoxAttaque" alignment="CENTER" text="0" enabled="false"/>
+						<g:Button text="+" ui:field="buttonAttPlus"/>
+					</g:HorizontalPanel>
+							<g:HorizontalPanel>
+								<g:Button text="-" ui:field="buttonDegMoins"/>
+						<g:TextBox height="18px" width="32px" ui:field="textBoxDegats" text="0" alignment="CENTER" enabled="false"/>
+						<g:Button text="+" ui:field="buttonDegPlus"/>
+					</g:HorizontalPanel>
+							<g:HorizontalPanel>
+								<g:Button text="-" ui:field="buttonEsqMoins"/>
+						<g:TextBox height="18px" width="32px" ui:field="textBoxEsq" text="0" alignment="CENTER" enabled="false"/>
+						<g:Button text="+" ui:field="buttonEsqPlus"/>
+					</g:HorizontalPanel>
+							<g:HorizontalPanel>
+								<g:Button text="-" ui:field="buttonRegMoins"/>
+						<g:TextBox height="18px" width="32px" ui:field="textBoxReg" alignment="CENTER" text="0" enabled="false"/>
+						<g:Button text="+" ui:field="buttonRegPlus"/>
+					</g:HorizontalPanel>
+							<g:HorizontalPanel>
+								<g:Button text="-" ui:field="buttonVieMoins"/>
+						<g:TextBox height="18px" width="32px" ui:field="textBoxVie" alignment="CENTER" text="0" enabled="false"/>
+						<g:Button text="+" ui:field="buttonViePlus"/>
+					</g:HorizontalPanel>
+						</g:VerticalPanel>
+					</g:HorizontalPanel>
+				</g:VerticalPanel>
+			</g:Dock>
+			<g:Dock direction="EAST">
+				<g:VerticalPanel ui:field="droitePanel" horizontalAlignment="ALIGN_RIGHT" styleName="dockPanelRight">
+					<g:Label text="Restant : 20" ui:field="labelRestSpe" height="40px"/>
+					<g:HorizontalPanel width="279px" height="129px">
+						<g:VerticalPanel height="126px">
+						<g:HorizontalPanel height="18px" width="86px" styleName="{style.hPanelDroite}">
+							<g:Button text="-" ui:field="buttonComp1Moins"/>
+							<g:TextBox alignment="CENTER" height="18px" width="32px" ui:field="textBoxCompetence1" text="0" enabled="false"/>
+							<g:Button text="+" ui:field="buttonComp1Plus"/>
+						</g:HorizontalPanel>
+						<g:HorizontalPanel>
+							<g:Button text="-" ui:field="buttonComp2Moins"/>
+							<g:TextBox height="18px" width="32px" ui:field="textBoxCompetence2" text="0" alignment="CENTER" enabled="false"/>
+							<g:Button text="+" ui:field="buttonComp2Plus"/>
+						</g:HorizontalPanel>
+					</g:VerticalPanel>
+					<g:VerticalPanel width="160px" height="125px" styleName="{style.rightVerticalLabel}">
+						<g:Label height="19px" text="Bottes Secrètes" width="194px" ui:field="labelCompetence1"/>
+						<g:Label height="19px" text="Hypnotisme" width="195px" ui:field="labelCompetence2"/>
+					</g:VerticalPanel>
+				</g:HorizontalPanel>
+				</g:VerticalPanel>
+			</g:Dock>
+			<g:Dock direction="SOUTH" horizontalAlignment="ALIGN_CENTER" verticalAlignment="ALIGN_MIDDLE">
+				<g:HorizontalPanel verticalAlignment="ALIGN_BOTTOM" horizontalAlignment="ALIGN_CENTER">
+					<g:Button text="Retour" ui:field="buttonRetour" styleName="button"/>
+					<g:Button width="201px" text="Sauvegarder le Troll" ui:field="buttonSave" styleName="button"/>
+					<g:Button ui:field="buttonClear" styleName="button">Clear</g:Button>
+				</g:HorizontalPanel>
+			</g:Dock>
+		</g:DockPanel>
+		</g:VerticalPanel>
+		<!-- Add GWT widgets here. Enter < and hit Ctrl-Space to auto-complete 
+			widget names. The ui:field attribute binds an element to a field in the owner 
+			class. See the GWT docs on UI Binder for more details. -->
+	</g:HTMLPanel>
+</ui:UiBinder> 

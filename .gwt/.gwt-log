@@ -1,0 +1,3212 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   20% complete (ETR: 15 seconds)
+   30% complete (ETR: 13 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15,23 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   20% complete (ETR: 19 seconds)
+   20% complete (ETR: 19 seconds)
+   20% complete (ETR: 19 seconds)
+   30% complete (ETR: 14 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 47,28 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0,15 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709125276.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709125276.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709125276_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709127580.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709127580.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709127580_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709199075.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709199075.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385709199075_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,09 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710478686.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710478686.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710478686_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710483566.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710483566.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710483566_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710509791.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710509791.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710509791_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710516758.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710516758.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710516758_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710518979.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710518979.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710518979_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710520999.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710520999.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710520999_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710523628.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710523628.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710523628_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710527745.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710527745.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710527745_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710529455.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710529455.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710529455_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710531404.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710531404.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710531404_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710531614.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710531614.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710531614_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710534031.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710534031.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385710534031_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711063069.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711063069.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711063069_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711337835.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711337835.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711337835_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711348741.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711348741.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711348741_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711361468.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711361468.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711361468_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711369406.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711369406.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385711369406_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2726 units from cache.
+Compiling...
+   50% complete (ETR: 3 seconds)
+   50% complete (ETR: 3 seconds)
+   50% complete (ETR: 3 seconds)
+   50% complete (ETR: 3 seconds)
+   50% complete (ETR: 3 seconds)
+   50% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9,57 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711401111.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711401111.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711401111_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.Tree.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method treeClosed
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeClosed'
+      Preparing method treeLeaf
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeLeaf'
+      Preparing method treeOpen
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeOpen'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711401916.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711401916.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711401916_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711415765.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711415765.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711415765_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711797432.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711797432.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711797432_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711834320.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711834320.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711834320_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711852248.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711852248.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711852248_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711889661.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711889661.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711889661_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711900562.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711900562.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711900562_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711919113.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711919113.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711919113_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711921702.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711921702.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385711921702_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712039881.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712039881.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712039881_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712044274.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712044274.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712044274_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712049203.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712049203.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712049203_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712052384.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712052384.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712052384_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712060799.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712060799.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712060799_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712181709.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712181709.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712181709_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712208077.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712208077.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712208077_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712226485.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712226485.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712226485_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712231087.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712231087.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712231087_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712267567.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712267567.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712267567_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712280856.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712280856.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712280856_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712307028.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712307028.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712307028_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712338980.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712338980.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712338980_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712416341.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712416341.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712416341_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712454953.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712454953.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712454953_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712457626.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712457626.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712457626_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712459647.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712459647.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712459647_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712480151.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712480151.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712480151_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712493869.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712493869.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712493869_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712515223.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712515223.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385712515223_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713445515.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713445515.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713445515_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713456785.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713456785.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713456785_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713468663.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713468663.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713468663_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713482277.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713482277.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713482277_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713488695.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713488695.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713488695_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713741393.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713741393.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713741393_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713758264.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713758264.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713758264_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713764467.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713764467.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385713764467_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714101770.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714101770.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714101770_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714109946.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714109946.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714109946_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714167642.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714167642.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714167642_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Expected a widget or <g:cell>, found <h1>: <g:VerticalPanel horizontalAlignment='ALIGN_CENTER' styleName='listPanel' verticalAlignment='ALIGN_MIDDLE' width='70%'> (:11)
+[ERROR] Deferred binding failed for 'com.trollcustom.client.ListDesign.ListDesignUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2723 cached/archived units.  Used 2723 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0,04 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714225668.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714225668.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714225668_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.Tree.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method treeClosed
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeClosed'
+      Preparing method treeLeaf
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeLeaf'
+      Preparing method treeOpen
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeOpen'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714226408.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714226408.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714226408_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714304116.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714304116.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714304116_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Expected a widget or <g:cell>, found <h1>: <g:VerticalPanel horizontalAlignment='ALIGN_CENTER' styleName='listPanel' verticalAlignment='ALIGN_MIDDLE' width='70%'> (:11)
+[ERROR] Deferred binding failed for 'com.trollcustom.client.ListDesign.ListDesignUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2725 cached/archived units.  Used 2725 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Expected a widget or <g:cell>, found <h1>: <g:VerticalPanel horizontalAlignment='ALIGN_CENTER' styleName='listPanel' verticalAlignment='ALIGN_MIDDLE' width='70%'> (:11)
+[ERROR] Deferred binding failed for 'com.trollcustom.client.ListDesign.ListDesignUiBinder'; expect subsequent failures
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714462014.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714462014.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714462014_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714462320.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714462320.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714462320_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714463706.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714463706.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385714463706_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0,04 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714469233.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714469233.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714469233_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.Tree.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method treeClosed
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeClosed'
+      Preparing method treeLeaf
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeLeaf'
+      Preparing method treeOpen
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeOpen'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714470294.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714470294.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385714470294_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 131 seconds)
+   20% complete (ETR: 66 seconds)
+   30% complete (ETR: 41 seconds)
+   40% complete (ETR: 29 seconds)
+   50% complete (ETR: 20 seconds)
+   60% complete (ETR: 13 seconds)
+   70% complete (ETR: 9 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 84,39 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0,14 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723914297.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723914297.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723914297_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,13 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723916846.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723916846.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723916846_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723942761.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723942761.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723942761_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723948375.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723948375.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1385723948375_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2726 cached/archived units.  Used 2726 / 2726 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723958985.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723958985.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723958985_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.Tree.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method treeClosed
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeClosed'
+      Preparing method treeLeaf
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeLeaf'
+      Preparing method treeOpen
+         Adding image 'com.google.gwt.user.client.ui.Tree.Resources.treeOpen'
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723959903.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723959903.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723959903_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723986601.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723986601.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723986601_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723986750.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723986750.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385723986750_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724358209.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724358209.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724358209_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724358312.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724358312.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724358312_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign.ListDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724362193.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724362193.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.ListDesign_ListDesignUiBinderImpl_designTime1385724362193_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: 69 seconds)
+   10% complete (ETR: 57 seconds)
+   20% complete (ETR: 39 seconds)
+   30% complete (ETR: 31 seconds)
+   40% complete (ETR: 23 seconds)
+   50% complete (ETR: 17 seconds)
+   60% complete (ETR: 13 seconds)
+   70% complete (ETR: 9 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 70,77 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2727 units from cache.
+Compiling...
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   30% complete (ETR: 9 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 17,18 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747518557.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747518557.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747518557_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747521004.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747521004.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747521004_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747530851.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747530851.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747530851_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747544916.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747544916.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747544916_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747548371.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747548371.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747548371_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747557278.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747557278.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747557278_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747568572.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747568572.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747568572_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747602145.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747602145.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747602145_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747612412.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747612412.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747612412_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747619998.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747619998.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747619998_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747625911.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747625911.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747625911_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747642031.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747642031.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385747642031_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748160527.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748160527.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748160527_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748163307.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748163307.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748163307_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748165597.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748165597.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748165597_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748175228.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748175228.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748175228_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748189989.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748189989.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748189989_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748199881.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748199881.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748199881_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748215513.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748215513.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748215513_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748221306.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748221306.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748221306_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748230124.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748230124.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748230124_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748261573.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748261573.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748261573_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748284867.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748284867.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385748284867_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750063093.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750063093.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750063093_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750074225.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750074225.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750074225_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750074476.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750074476.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385750074476_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,09 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757141694.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757141694.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757141694_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757177719.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757177719.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757177719_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757313236.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757313236.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757313236_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757342999.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757342999.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385757342999_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,09 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760172199.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760172199.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760172199_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760234237.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760234237.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760234237_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign.TableDesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760733820.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760733820.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.TableDesign_TableDesignUiBinderImpl_designTime1385760733820_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   10% complete (ETR: 25 seconds)
+   10% complete (ETR: 25 seconds)
+   20% complete (ETR: 22 seconds)
+   30% complete (ETR: 16 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 46,16 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   10% complete (ETR: 22 seconds)
+   10% complete (ETR: 22 seconds)
+   20% complete (ETR: 21 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 16,09 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: 74 seconds)
+   10% complete (ETR: 73 seconds)
+   20% complete (ETR: 52 seconds)
+   30% complete (ETR: 38 seconds)
+   40% complete (ETR: 30 seconds)
+   50% complete (ETR: 22 seconds)
+   60% complete (ETR: 15 seconds)
+   70% complete (ETR: 10 seconds)
+   80% complete (ETR: 6 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 44,63 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: 73 seconds)
+   10% complete (ETR: 66 seconds)
+   20% complete (ETR: 43 seconds)
+   30% complete (ETR: 34 seconds)
+   40% complete (ETR: 25 seconds)
+   50% complete (ETR: 20 seconds)
+   60% complete (ETR: 15 seconds)
+   70% complete (ETR: 10 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 38,61 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 64 seconds)
+   20% complete (ETR: 51 seconds)
+   30% complete (ETR: 37 seconds)
+   40% complete (ETR: 27 seconds)
+   50% complete (ETR: 22 seconds)
+   60% complete (ETR: 16 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 7 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 100,51 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2727 units from cache.
+Compiling...
+   Compilation completed in 0,44 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/Tony/Dropbox/Workspace_linux/Trollcustom/src/com/trollcustom/shared/XMLtools.java'
+      [ERROR] Line 39: No source code is available for type javax.xml.parsers.DocumentBuilderFactory; did you forget to inherit a required module?
+      [ERROR] Line 40: No source code is available for type javax.xml.parsers.DocumentBuilder; did you forget to inherit a required module?
+      [ERROR] Line 43: No source code is available for type org.w3c.dom.Document; did you forget to inherit a required module?
+      [ERROR] Line 44: No source code is available for type org.w3c.dom.Element; did you forget to inherit a required module?
+      [ERROR] Line 53: No source code is available for type org.w3c.dom.Attr; did you forget to inherit a required module?
+      [ERROR] Line 101: No source code is available for type javax.xml.transform.TransformerFactory; did you forget to inherit a required module?
+      [ERROR] Line 102: No source code is available for type javax.xml.transform.Transformer; did you forget to inherit a required module?
+      [ERROR] Line 105: No source code is available for type javax.xml.transform.TransformerConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 110: No source code is available for type javax.xml.transform.dom.DOMSource; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type javax.xml.transform.stream.StreamResult; did you forget to inherit a required module?
+      [ERROR] Line 112: No source code is available for type java.io.File; did you forget to inherit a required module?
+      [ERROR] Line 118: No source code is available for type javax.xml.transform.TransformerException; did you forget to inherit a required module?
+      [ERROR] Line 123: No source code is available for type javax.xml.parsers.ParserConfigurationException; did you forget to inherit a required module?
+      [ERROR] Line 148: No source code is available for type org.xml.sax.SAXException; did you forget to inherit a required module?
+      [ERROR] Line 161: No source code is available for type org.w3c.dom.NodeList; did you forget to inherit a required module?
+      [ERROR] Line 166: No source code is available for type org.w3c.dom.Node; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,21 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1386109317127.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1386109317127.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1386109317127_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design.DesignUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,12 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1386109322142.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.trollcustom.client.Design_DesignUiBinderImpl_designTime1386109322142.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.trollcustom.client.Design_DesignUiBinderImpl_designTime1386109322142_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.FormPanel.IFrameTemplate
+         Generating method body for get()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   10% complete (ETR: 28 seconds)
+   10% complete (ETR: 28 seconds)
+   20% complete (ETR: 23 seconds)
+   30% complete (ETR: 17 seconds)
+   40% complete (ETR: 12 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 26,03 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   20% complete (ETR: 20 seconds)
+   20% complete (ETR: 20 seconds)
+   20% complete (ETR: 19 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15,82 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   20% complete (ETR: 20 seconds)
+   20% complete (ETR: 20 seconds)
+   20% complete (ETR: 20 seconds)
+   30% complete (ETR: 15 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15,05 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: ?)
+   10% complete (ETR: 105 seconds)
+   20% complete (ETR: 65 seconds)
+   30% complete (ETR: 45 seconds)
+   40% complete (ETR: 36 seconds)
+   50% complete (ETR: 26 seconds)
+   60% complete (ETR: 18 seconds)
+   70% complete (ETR: 13 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 63,24 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
